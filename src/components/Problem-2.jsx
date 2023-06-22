@@ -37,7 +37,7 @@ const Problem2 = () => {
     }
 
     // search functionality
-    const [searchText, setSearchText] = useState(null)
+    const [searchText, setSearchText] = useState('')
 
 
 
